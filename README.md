@@ -5,12 +5,12 @@ The **Cloud Restaurant Website** is a modern, responsive web application designe
 This website also allows customers to make **reservations**, view the restaurant's location through an integrated **map**, and explore the **brands** associated with the restaurant. The **brands** section is powered by JavaScript, which dynamically generates a consistent layout for all brands, allowing users to filter and search for specific brands, and view detailed information.
 
 ## Features
-- **Responsive Design**: Built with **Bootstrap**, ensuring the website looks great and functions smoothly on all screen sizes, from mobile devices to desktops.
-- **Reservation System**: Allows users to create reservations directly on the website for an enhanced dining experience.
-- **Interactive Map**: Provides users with an interactive map to view the restaurant's location and easily find directions.
-- **Brands Page**: Displays all the brands associated with the restaurant, and users can filter through the list to find specific brands and view detailed information.
-- **Filterable Brands**: The ability to filter brands by categories, powered by **JavaScript**, making it easy for users to find the information they need.
-- **Consistent Layout**: All brand pages have a uniform layout created using **JavaScript** for a seamless user experience.
+- **Responsive Design**: Ensures the website looks great on all devices, built with **Bootstrap**.
+- **Reservation System**: Users can make reservations directly on the website.
+- **Interactive Map**: Displays the restaurant’s location with Google Maps integration.
+- **Brand Filtering**: Filter and search through brands using **JavaScript** for easy access to brand details.
+- **Multiple Pages**: Includes **Home**, **About Us**, **Careers**, **Contact**, and **Brands** pages, each offering a unique set of functionalities.
+- **Consistent Layout**: All brand pages follow a unified layout, dynamically generated with **JavaScript** for consistency.
 
 ## Technologies Used
 - **HTML**: Used to structure the content and define the layout of the website.
